@@ -1,5 +1,5 @@
 body {
-background-color:gray;
+background-color:rgb(63, 61, 61);
 
 }
 
@@ -30,4 +30,8 @@ body, html {
   background-size: cover;
 }
 
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
 

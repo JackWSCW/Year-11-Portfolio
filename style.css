@@ -51,12 +51,90 @@ body, html {
 
 
 h1 {
-  padding-bottom: 110px;
-  
+  padding-bottom: 120px;
+ 
 }
 
 .lefttext {
-  margin-right: 50%;
-  padding-bottom: 30%;
-  padding-top: 8%
+  text-align: left;
+  margin-left: 5%;
+
+}
+
+
+.bodytext {
+  font-size: 24px;
+  color: white ;
+  text-align: left;
+  padding-right: 60%;
+  margin-left: 5%;
+}
+
+
+li {
+  font-size: 20px;
+  margin-left: 5%;
+  color: white
+  
+  
+}
+
+.right {
+  padding-right: 20px;
+  margin-left: 56%;
+  margin-right: 10px;
+  width: 37%;
+  padding-bottom: 90%;
+}
+
+hr.rounded {
+  border-top: 3px solid white;
+  border-radius: 5px;
+
+}
+
+h4 {
+  margin-left: 5%;
+
+}
+
+.smallertext {
+  font-size: 21px;
+  color: white ;
+  text-align: center;
+  margin-left: 5%;
+  
+}
+
+.h3head {
+  color:white;
+  font-family: fantasy;
+  text-align: left;
+  margin-left: 5%;
+  font-size: 45px;
+
+
+}
+
+.list2 {
+  text-align: right;
+  padding-left: 50%;
+  margin-right:10% ;
+  
+}
+
+.titles2 {
+  text-align: right;
+  font-size: 20px;
+  color: white ;
+  margin-right: 35%;
+  
+}
+
+.hometext {
+  color:white;
+  font-family: fantasy;
+  font-size: 80px;
+  text-align: center;
+  
 }

@@ -113,6 +113,7 @@ h4 {
   padding-left: 50%;
   margin-right:10% ;
   
+  
 }
 
 .titles2 {
@@ -128,4 +129,9 @@ h4 {
   font-family: fantasy;
   font-size: 80px;
   text-align: center;
+}
+
+.dev1 {
+  color:white;
+
 }

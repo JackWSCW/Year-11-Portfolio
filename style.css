@@ -58,7 +58,7 @@ h1 {
   font-size: 24px;
   color: white ;
   text-align: left;
-  padding-right: 60%;
+  padding-right: 3%;
   margin-left: 5%;
 }
 
@@ -71,13 +71,26 @@ li {
   
 }
 
-.right {
+.split-box {
+  display: flex;
+  align-items: center;
+}
+
+.child-box {
+  flex: 0 0 45%;
+}
+
+img {
+  width: 500px;
+}
+
+/* .right {
   padding-right: 20px;
   margin-left: 56%;
   margin-right: 10px;
   width: 37%;
   padding-bottom: 90%;
-}
+} */
 
 hr.rounded {
   border-top: 3px solid white;
@@ -134,4 +147,18 @@ h4 {
 .dev1 {
   color:white;
 
+}
+
+.que {
+  color: white ;
+  font-family: fantasy ;
+  margin-left:5% ;
+  font-size:35px ;
+}
+
+.active {
+ color: rgb(174, 255, 248);
+ font-family: fantasy ;
+ margin-left: 5%;
+ font-size: 50px ;
 }
